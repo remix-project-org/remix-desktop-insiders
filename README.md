@@ -4,6 +4,7 @@ This version of Remix Desktop is designed to bring you the latest features and i
 As an Insider, you get exclusive access to experimental updates.
 
 To use Remix on the web go to: https://remix.ethereum.org/
-to leanr more about Remix: https://remix-project.org/
+
+To leanr more about Remix: https://remix-project.org/
 
 
