@@ -1,6 +1,10 @@
 # Remix Desktop Insiders
 
-This version of Remix Desktop is designed to bring you the latest features and innovations before they hit the mainstream. 
+**Remix Desktop** is an Electron version of Remix IDE.  It works on Linux, Windows, & Macs.
+
+Like the name says, it is a desktop app - so it you can seamlessly access files on your computer's filesystem.  
+
+This insiders version of Remix Desktop is designed to bring you the latest features and innovations before they hit the mainstream. 
 As an Insider, you get exclusive access to experimental updates.
 
 As this is an exeperimental release, be careful and always back up your files.
@@ -9,13 +13,11 @@ The app will automatically update itself when there is a new release.
 
 Download the appropriate release for your OS: https://github.com/remix-project-org/remix-desktop-insiders/releases
 
-To use Remix on the web go to: https://remix.ethereum.org/
-
-To leanr more about Remix: https://remix-project.org/
+To find out more about Remix IDE - please go to [ethereum/remix-project](https://github.com/ethereum/remix-project) - or to see it in action, go to [remix.ethereum.org](https://remix.ethereum.org).
 
 ## About Remix Desktop
 
-Remix Desktop is different from Remix on the web:
+### Differences between Remix Desktop & Remix IDE - the web app
 
 - You always use the local file system, no need to upload files. Just use your regular local workflow.
 - You can use native terminals ( bash, sh, zsh, powershell, cmd.exe ) and use for example git there like you normally would.
