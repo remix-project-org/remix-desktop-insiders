@@ -5,6 +5,8 @@ As an Insider, you get exclusive access to experimental updates.
 
 As this is an exeperimental release, be careful and always back up your files.
 
+The app will automatically update itself when there is a new release.
+
 Download the appropriate release for your OS: https://github.com/remix-project-org/remix-desktop-insiders/releases
 
 To use Remix on the web go to: https://remix.ethereum.org/
