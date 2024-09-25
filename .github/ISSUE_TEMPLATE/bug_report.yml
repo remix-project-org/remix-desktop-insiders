@@ -2,7 +2,6 @@ name: Bug Report
 description: Report a bug to help us improve.
 title: "[BUG] : "
 labels: [bug]
-assignees: ''
 
 body:
   - type: markdown
@@ -36,10 +35,6 @@ body:
         - Other
     validations:
       required: true
-    if:
-      contains:
-        operating-system:
-          - macOS
 
   - type: input
     id: os-version
