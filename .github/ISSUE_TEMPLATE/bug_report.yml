@@ -24,6 +24,21 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: mac-architecture
+    attributes:
+      label: Mac Architecture
+      description: If you are using macOS, please specify the architecture.
+      options:
+        - Intel
+        - Apple Silicon (M1/M2)
+        - Other
+    validations:
+      required: true
+    if:
+      eq:
+        operating-system: macOS
+
   - type: input
     id: os-version
     attributes:
