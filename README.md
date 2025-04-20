@@ -2,10 +2,9 @@
 
 **Remix Desktop** is an Electron version of Remix IDE.  It works on Linux, Windows, & Macs.
 
-Like the name says, it is a desktop app - so it you can seamlessly access files on your computer's filesystem.  
+Like the name says, it is a desktop app - so it can seamlessly access files on your computer's filesystem.  
 
-This insiders version of Remix Desktop is designed to bring you the latest features and innovations before they hit the mainstream. 
-As an Insider, you get exclusive access to experimental updates.
+This Insiders version of Remix Desktop is designed to bring you the latest features and innovations before they hit the mainstream. As an Insider, you get exclusive access to experimental updates.
 
 As this is an exeperimental release, be careful and always back up your files.
 
