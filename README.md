@@ -1,3 +1,7 @@
+# Remix Desktop available
+
+The latest version of Remix Desktop which has been released is available [here](https://github.com/remix-project-org/remix-desktop/releases)
+
 # Remix Desktop Insiders
 
 **Remix Desktop** is an Electron version of Remix IDE.  It works on Linux, Windows, & Macs.
