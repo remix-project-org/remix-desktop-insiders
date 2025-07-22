@@ -1,6 +1,6 @@
 # Remix Desktop available
 
-The latest version of Remix Desktop which has been released is available [here](https://github.com/remix-project-org/remix-desktop/releases)
+The latest version of Remix Desktop which has been released is available [here](https://github.com/remix-project-org/remix-desktop/releases).
 
 # Remix Desktop Insiders
 
